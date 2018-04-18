@@ -22,6 +22,9 @@ seafile-web 可以在运行时选择语言。
 
 1. 在 topbar 上提供语言切换按钮 
 2. 切换完后在 ccnet 中记录
+
+   测试
+
 3. 根据 ccnet 中的记录来选择语言
 
 ### Seahub
